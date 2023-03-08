@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Interview task for phoenix backend",
+  "main": "index.ts",
+  "license": "MIT",
+  "private": false
+}
