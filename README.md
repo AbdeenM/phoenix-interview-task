@@ -1,4 +1,4 @@
-# Task 2
+# Task 4
 
 You are building a simple apollo graphql server that exposes a single query `getUser` and a mutation `updateUser` as well as setting up a background service that on an interval of 1 minute updates a field from the `user` object to a scheduled value for `message` that is prefixed by `automated -`
 Initially upon the server running make a single request to `https://random-data-api.com/api/v2/users` to retrieve the user object and store the user details in memory database for later usage, note that we are not interested in all the data provided by the API end-point thus store only the properties that are needed by your `user` object
